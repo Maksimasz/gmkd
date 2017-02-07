@@ -4,8 +4,8 @@
 # PHP OOP site version
 # programming: Maksim Azizov
 # mail: maksimasz@yahoo.com
-# version: 1.03
-# 2015
+# version: 2.00
+# 2015-2017
 
 define('KEY',TRUE);
 
