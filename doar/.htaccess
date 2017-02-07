@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^doar\.gmkd\.co\.il$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.doar\.gmkd\.co\.il$
+RewriteRule ^/?$ "http\:\/\/gmkd\.org\:2095\/" [R=301,L]
+

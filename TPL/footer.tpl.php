@@ -1,0 +1,1 @@
+<div class="row" ><small class="col-md-12">Copyright <?=date("Y");?> &amp;copy <a href="/back"><?=$name;?></a></small></div>
